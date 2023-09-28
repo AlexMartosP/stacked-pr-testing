@@ -14,3 +14,9 @@ Following branches used `rebase`:
 - `product`
 - `rating`
 - `star`
+
+Following branches used `rebase` and `--update-ref`:
+
+- `productRef`
+- `ratingRef`
+- `starRef`
