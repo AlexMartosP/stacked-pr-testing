@@ -1,0 +1,23 @@
+{
+  "name": "github-stacked-pr-testing",
+  "description": "Testing out stecked Pull Requests with Git and Github only.\r Checkout **Insight** -> **Network** to see a branch graph.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexMartosP/stacked-pr-testing.git"
+  },
+  "author": "Alexander Martos Paschoal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexMartosP/stacked-pr-testing/issues"
+  },
+  "homepage": "https://github.com/AlexMartosP/stacked-pr-testing#readme",
+  "dependencies": {
+    "@withgraphite/graphite-cli": "^1.0.5"
+  }
+}
